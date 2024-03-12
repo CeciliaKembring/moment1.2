@@ -2,18 +2,14 @@
 
 <PageTitle>moment1.2</PageTitle>
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
+<div class="top-menu">
+    <NavMenu />
+</div>
 
-    <main>
-        <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
-        </div>
+<main class="content">
+    @Body
+</main>
 
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
+<div class="footer">
+    <Footer />
 </div>
