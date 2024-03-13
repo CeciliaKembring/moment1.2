@@ -53,10 +53,6 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/ADamHolmberg/Desktop/moment1.2/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
-    },
-    {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.moment1.2.props",
       "PackagePath": "build\\moment1.2.props"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ai48MicCAXeiRmuOhpdMGsRc0nsXUak/bAYr/X50Xoc=",
+  "Hash": "ijHH+0bz/j6iqJF9hs993KctxjF9+zqT+or0yMJUfCo=",
   "Source": "moment1.2",
   "BasePath": "_content/moment1.2",
   "Mode": "Default",
@@ -253,23 +253,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
-    },
-    {
-      "Identity": "/Users/ADamHolmberg/Desktop/moment1.2/wwwroot/favicon.png",
-      "SourceId": "moment1.2",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/ADamHolmberg/Desktop/moment1.2/wwwroot/",
-      "BasePath": "_content/moment1.2",
-      "RelativePath": "favicon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.png"
     }
   ]
 }
